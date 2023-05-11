@@ -12,5 +12,9 @@ public static void main(String[] args) {
 	b=sc.nextIn();
 	// Hoang Minh Hai: Thieu canh c
 	System.out.println("Nhap canh c:");
+	int c;
+	c=sc.nextInt();
+	System.out.println("Nhap canh d:");
+	//Nguyen Van Thien: Thieu canh d
 }
 }
