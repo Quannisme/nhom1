@@ -6,5 +6,9 @@ public static void main(String[] args) {
 	System.out.println("Nhap canh a");
 	int a;
 	a=sc.nextInt();
+	// dang xuan son : thieu canh b
+	System.out.println("Nhap canh b :");
+	int b;
+	b=sc.nextIn();
 }
 }
