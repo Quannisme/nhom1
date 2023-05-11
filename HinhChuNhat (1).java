@@ -16,5 +16,7 @@ public static void main(String[] args) {
 	c=sc.nextInt();
 	System.out.println("Nhap canh d:");
 	//Nguyen Van Thien: Thieu canh d
+     //Nguyen Minh Bao
+
 }
 }
